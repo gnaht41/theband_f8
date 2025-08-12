@@ -7,7 +7,7 @@ Mục tiêu: Tạo một website giới thiệu ban nhạc với giao diện đ�
 ## Công nghệ sử dụng
 - **HTML5**: Cấu trúc nội dung trang web
 - **CSS3**: Tạo giao diện và hiệu ứng
-- **JavaScript (Vanilla JS)**: Xử lý tương tác (menu, modal, slider, v.v.)
+- **JavaScript **: Xử lý tương tác (menu, modal, slider, v.v.)
 - **Responsive Design**: Tương thích với mobile, tablet và desktop
 
 ## Tính năng chính
